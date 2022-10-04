@@ -30,9 +30,9 @@ class Correr {
 				cout << "\nQue desea convertir:\n" << endl;
 
 				cout << "1.- Decimal a binario." << endl;
-				cout << "2.- Decimal a sexagecimal." << endl;
+				cout << "2.- Decimal a hexadecimal." << endl;
 				cout << "3.- Binario a decimal." << endl;
-				cout << "4.- Binario a sexagesimal." << endl;
+				cout << "4.- Binario a hexadecimal." << endl;
 				cout << "5.- Hexadesimal a binario." << endl;
 				cout << "6.- Hexadesimal a desimal." << endl;
 				cout << "0.- SALIR" << endl;
